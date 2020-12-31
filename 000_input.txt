@@ -4,3 +4,10 @@ https://www.bernard-nicod.ch/fr/SearchEngine/Acheter/ByPass/Appartement-Maison?A
 https://www.besuchet.ch/fr/SearchEngine/Acheter/ByPass/Tous?PropertySubTypeGroupID=1,10,11,12,13,14,15,16,17,18,19,20,4,6,7,8,9&PriceMax=1800000&CurrencyID=CHF&SearchCriteriaImmoId=57e8248f-b82f-9fff-14d1-22af79aeeee6
 https://www.abordier.ch/vente.html
 https://www.bory.ch/en/acheter?areaMax=159&areaMin=80&coordinates=46.2043907%2C%206.143157699999961&orderPriceBy=ASC&priceMax=&priceMin=&radius=15&roomsMax=&roomsMin=&types=APP&types=MAI
+https://dbs-group.ch/acheter/?localite=Gen%C3%A8ve,Switzerland&rayon=5&categorie=achat&type_bien=Appartements,Maisons&price_max=1800000
+http://www.regiebrun.ch/regiebrun.htm
+https://www.burger-sa.ch/vente.html
+https://regieducentre.ch/ventes/?fwp_ventes_pieces=4.50%2C6.00&fwp_ventes_prix=640000.00%2C1873511.00
+https://www.cogerim.ch/fr/SearchEngine/Louer/ByPass/Logement-neuf
+https://comptoir-immo.ch/vente?page_no=1&category=APP,MAI&room=0_5&prix=1800000&sorting=prix_asc&npa=Geneva,%20Switzerland&ne_lat=46.50300688754166&sw_lat=45.98921601420848&sw_lon=5.768826079236273&ne_lon=6.497378420697455&zoom=10&geo_code=46.2180073,6.121692500000001
+http://www.regiefonciere.ch/fr/proprietaires-vente
